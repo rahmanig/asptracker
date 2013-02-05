@@ -1,0 +1,1 @@
+This is a simple web plugin developed using C# and ASP .NET. It will track what pages a user has visted on the website and for how long. When a user signs up for a newsletter (providing their e-mail address) this information will then be stored along with their email.
